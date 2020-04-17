@@ -20,7 +20,7 @@ Check out the following collections of reproducible state-of-the-art algorithms:
    * Image denoising based on non-local means filter and its method noise thresholding (SIVP2013), B. Kumar
  * BM3D [[Web]](http://www.cs.tut.fi/~foi/GCF-BM3D/) [[Code]](http://www.cs.tut.fi/~foi/GCF-BM3D/BM3D.zip) [[PDF]](http://www.cs.tut.fi/~foi/GCF-BM3D/SPIE08_deblurring.pdf)
    * Image restoration by sparse 3D transform-domain collaborative filtering (SPIE Electronic Imaging 2008), Dabov et al.   
- * PID [[Web]](http://cgg-zwicker.inf.unibe.ch/publications/progressive-image-denoising) [[Code]](http://www.cgg.unibe.ch/publications/progressive-image-denoising/pid.zip) [[PDF]](http://cgg-zwicker.inf.unibe.ch/publications/progressive-image-denoising/at_download/file)
+ * PID [[Web]](http://cgg-zwicker.inf.unibe.ch/publications/progressive-image-denoising) [[Code]](http://cgg-zwicker.inf.unibe.ch/publications/progressive-image-denoising/pid.zip) [[PDF]](http://cgg-zwicker.inf.unibe.ch/publications/2014/progressive-image-denoising)
    * Progressive Image Denoising (TIP 2014), C. Knaus et al.
 
 #### Sparse Coding
